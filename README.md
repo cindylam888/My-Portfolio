@@ -1,2 +1,2 @@
-# Cindy-s-Portfolio
+# My-Portfolio
 Data Science Portfolio
